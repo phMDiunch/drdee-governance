@@ -15,36 +15,18 @@ Trạng thái   : Đang soạn thảo
 
 ## 1. Tổng quan cơ cấu thu nhập
 
-Hai vị trí dùng chung cơ cấu lương nền. Sự khác biệt chính là tư vấn viên có thêm hoa hồng cá nhân gắn với doanh số tư vấn.
-
-**Lễ tân / Thu ngân:**
-
 ```
-TỔNG THU NHẬP
-= Lương cơ bản
-+ Lương bậc
-+ Lương thâm niên
-+ Thưởng KPI tháng
-+ Thưởng % giới thiệu khách
-+ Thưởng phòng khám (bộ phận quầy)
-+ Phụ cấp & phúc lợi
+THU NHẬP HÀNG THÁNG = Lương + Thưởng cá nhân + Thưởng phòng khám + Phụ cấp
 ```
 
-**Tư vấn viên:**
+| Nhóm                  | Lễ tân / Thu ngân                                                  | Tư vấn viên                                                                                                                                   |
+| --------------------- | ------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lương**             | Lương cơ bản (mục 2) + Lương bậc (mục 3) + Lương thâm niên (mục 4) | Lương cơ bản (mục 2) + Lương bậc (mục 3) + Lương thâm niên (mục 4)                                                                            |
+| **Thưởng cá nhân**    | Thưởng KPI tháng (mục 5) + Thưởng % giới thiệu khách (mục 7)       | Thưởng KPI tháng (mục 5) + Hoa hồng cá nhân theo doanh số tư vấn (mục 6) + Thưởng % giới thiệu khách (mục 7)                                  |
+| **Thưởng phòng khám** | Quỹ thưởng bộ phận quầy chia về cá nhân theo điểm quầy (mục 8)     | Quỹ thưởng bộ phận quầy chia về cá nhân theo điểm quầy (mục 8) + Nếu là QLCS: thêm phần riêng % doanh thu PK cho vai trò điều hành (mục 10.2) |
+| **Phụ cấp**           | Phụ cấp chung — xem [Phụ cấp & Phúc lợi](./phu-cap-phuc-loi.md)    | Phụ cấp chung + Phụ cấp trách nhiệm nếu là Quầy trưởng (mục 9.1) hoặc QLCS (mục 10.1)                                                         |
 
-```
-TỔNG THU NHẬP
-= Lương cơ bản
-+ Lương bậc
-+ Lương thâm niên
-+ Thưởng KPI tháng
-+ Hoa hồng cá nhân (theo doanh số tư vấn)
-+ Thưởng % giới thiệu khách
-+ Thưởng phòng khám (bộ phận quầy)
-+ Phụ cấp & phúc lợi
-```
-
-> Lương cơ bản của tư vấn viên đặt bằng lễ tân vì đã có hoa hồng bù vào phần biến động thu nhập.
+> **Phúc lợi tách riêng**, không cộng vào thu nhập hàng tháng (xem [Phụ cấp & Phúc lợi](./phu-cap-phuc-loi.md)).
 
 ---
 
@@ -135,30 +117,33 @@ Khoản thưởng biến động theo chất lượng công việc hàng tháng.
 
 ## 6. Hoa hồng cá nhân _(chỉ áp dụng cho Tư vấn viên)_
 
-Tính trên **doanh số tư vấn cá nhân đã thu tiền** trong tháng — không tính công nợ, không tính doanh thu của tư vấn viên khác.
+Bản chất là **thưởng % tư vấn** dành cho tư vấn viên — tính trên **doanh số tư vấn cá nhân** trong tháng, tức tổng giá trị hợp đồng tư vấn viên trực tiếp tư vấn và khách chốt trong tháng. Không phụ thuộc khách đã trả tiền hay chưa, không tính phần của tư vấn viên khác.
 
-| Kết quả phòng khám trong tháng | Mức hoa hồng |
-| ------------------------------ | ------------ |
-| Dưới doanh thu sàn             | **0,5%**     |
-| Đạt doanh thu sàn trở lên      | **1,0%**     |
-
-**Doanh thu sàn** là mức doanh thu phòng khám cần đạt để hòa vốn trong tháng, được công bố đầu năm.
+| Kết quả phòng khám trong tháng       | Mức hoa hồng |
+| ------------------------------------ | ------------ |
+| Dưới 90% doanh thu sàn               | **0,5%**     |
+| Đạt 90% doanh thu sàn (chưa đạt sàn) | **0,8%**     |
+| Đạt doanh thu sàn trở lên            | **1,0%**     |
 
 **Nguyên tắc:**
 
-- Hoa hồng tính theo kết quả doanh thu **phòng khám** — không phải doanh số cá nhân — để khuyến khích tinh thần phối hợp và hỗ trợ nhau trong nhóm
-- Tỷ lệ áp dụng thống nhất cho toàn bộ doanh số cá nhân trong tháng đó (không chia theo từng hợp đồng)
-- Doanh số tính hoa hồng là phần **tư vấn viên đó trực tiếp tư vấn và ký hợp đồng**, được ghi nhận trong hệ thống DrDee
+- **Tỷ lệ hoa hồng (0,5% hay 1%)** xác định theo kết quả doanh thu **phòng khám**, không phải theo doanh số cá nhân — để khuyến khích tinh thần phối hợp và hỗ trợ nhau trong nhóm
+- Tỷ lệ áp dụng thống nhất cho toàn bộ doanh số tư vấn cá nhân trong tháng đó (không chia theo từng hợp đồng)
+- Phần tính hoa hồng là **tư vấn viên đó trực tiếp tư vấn và ký hợp đồng**, được ghi nhận trong hệ thống DrDee
 
-**Ví dụ:**
+**Ví dụ:** (giả định doanh thu sàn = 900 triệu)
 
 ```
-Tháng 4/2026 — phòng khám đạt doanh thu sàn
-Tư vấn viên A có doanh số cá nhân đã thu tiền = 180.000.000 đ
-Hoa hồng = 180.000.000 × 1% = 1.800.000 đ
+Tháng 4/2026 — phòng khám đạt doanh thu sàn (940 triệu, ≥ 900 triệu)
+Tư vấn viên A có doanh số tư vấn cá nhân = 180.000.000 đ (chốt 3 ca trong tháng)
+Hoa hồng = 180.000.000 × 1,0% = 1.800.000 đ
 
-Tháng 5/2026 — phòng khám không đạt doanh thu sàn
-Tư vấn viên A có doanh số cá nhân đã thu tiền = 150.000.000 đ
+Tháng 5/2026 — phòng khám đạt 850 triệu (94% sàn, chưa đạt sàn)
+Tư vấn viên A có doanh số tư vấn cá nhân = 150.000.000 đ
+Hoa hồng = 150.000.000 × 0,8% = 1.200.000 đ
+
+Tháng 6/2026 — phòng khám chỉ đạt 720 triệu (80% sàn, dưới 90%)
+Tư vấn viên A có doanh số tư vấn cá nhân = 150.000.000 đ
 Hoa hồng = 150.000.000 × 0,5% = 750.000 đ
 ```
 
@@ -166,23 +151,11 @@ Hoa hồng = 150.000.000 × 0,5% = 750.000 đ
 
 ## 7. Thưởng % giới thiệu khách
 
-Áp dụng cho cả lễ tân và tư vấn viên khi giới thiệu bệnh nhân mới đến phòng khám và bệnh nhân đó chốt hợp đồng điều trị.
+Áp dụng **chính sách thống nhất toàn công ty** — lễ tân và tư vấn viên được hưởng thưởng giới thiệu khách như mọi nhân viên khác.
 
-| Nhóm dịch vụ khách hàng chốt  | Mức thưởng                                   |
-| ----------------------------- | -------------------------------------------- |
-| Niềng mắc cài                 | **1.000.000 đ** / khách                      |
-| Niềng invisalign / niềng invi | **2.000.000 đ** / khách                      |
-| Răng sứ                       | **0,5%** giá trị hợp đồng tại thời điểm chốt |
-| Implant                       | **0,5%** giá trị hợp đồng tại thời điểm chốt |
+Xem chi tiết bảng mức thưởng, nguyên tắc áp dụng và ví dụ tại: [README §Thưởng % giới thiệu khách](./README.md#thưởng--giới-thiệu-khách-áp-dụng-chung).
 
-**Điều kiện áp dụng:**
-
-- Bệnh nhân phải được ghi nhận nguồn giới thiệu trong hệ thống DrDee từ lần đầu tiếp nhận
-- Với răng sứ và implant, thưởng tính trên **giá trị hợp đồng đã thu tiền** (không tính nợ)
-- Áp dụng cho cả nhân viên **đang làm hoặc đã nghỉ việc** — ai giới thiệu người đó được thưởng
-- Nếu bệnh nhân quay lại chốt hợp đồng mới ở nhóm dịch vụ khác, tiếp tục được thưởng theo nhóm dịch vụ đó
-
-> Lưu ý: Với tư vấn viên — thưởng giới thiệu và hoa hồng tư vấn **không xung đột**. Nếu tư vấn viên vừa là người giới thiệu vừa là người trực tiếp tư vấn chốt hợp đồng đó, hưởng cả hai khoản.
+> Lưu ý: Với tư vấn viên — thưởng giới thiệu và hoa hồng tư vấn (mục 6) **không xung đột**. Nếu tư vấn viên vừa là người giới thiệu vừa là người trực tiếp tư vấn chốt hợp đồng đó, hưởng cả hai khoản.
 
 ---
 
@@ -197,8 +170,6 @@ Hoa hồng = 150.000.000 × 0,5% = 750.000 đ
 | Đạt doanh thu sàn    | 0,05% doanh thu phòng khám     |
 | Đạt target doanh thu | 0,1% doanh thu phòng khám      |
 | Không đạt sàn        | Không có quỹ thưởng phòng khám |
-
-> Doanh thu tính quỹ là **doanh thu đã thu tiền** trong tháng.
 
 ### Cách chia về cá nhân
 
@@ -240,21 +211,11 @@ Thưởng cá nhân = Giá trị 1 điểm quầy × Tổng điểm quầy của
 
 ---
 
-## 9. Điều khoản chung
-
-- Thời gian thử việc: **1 tháng**, hưởng **85%** lương cơ bản bậc cơ bản (= 5.950.000 đ)
-- Sau thử việc: chính thức nhận **100%** lương, bắt đầu tính thâm niên
-- Hoa hồng (tư vấn viên), thưởng KPI và thưởng giới thiệu tính từ tháng hoàn thành thử việc
-- Lương tháng T được thanh toán vào ngày _(cập nhật)_ tháng T+1
-- Người có kinh nghiệm từ nơi khác không tự động xếp bậc cao — thử việc 1 tháng, sau đó được thi xếp bậc sớm nếu muốn
-
----
-
-## 10. Chế độ riêng cho Quầy trưởng
+## 9. Chế độ riêng cho Quầy trưởng
 
 Quầy trưởng vẫn hưởng toàn bộ cơ cấu thu nhập như Tư vấn viên — bao gồm lương cơ bản, lương bậc (đóng băng tại mức khi bổ nhiệm), lương thâm niên và hoa hồng cá nhân khi trực tiếp tư vấn chốt hợp đồng. Việc bổ nhiệm Quầy trưởng chỉ thực hiện sau khi tư vấn viên đã đạt **Bậc 4**.
 
-### 10.1. Phụ cấp trách nhiệm Quầy trưởng
+### 9.1. Phụ cấp trách nhiệm Quầy trưởng
 
 | Giai đoạn    | Điều kiện                                                                      | Phụ cấp/tháng |
 | ------------ | ------------------------------------------------------------------------------ | ------------- |
@@ -265,11 +226,13 @@ Quầy trưởng vẫn hưởng toàn bộ cơ cấu thu nhập như Tư vấn v
 
 > Phụ cấp được tính từ tháng đầu tiên chính thức đảm nhiệm vai trò Quầy trưởng.
 
-### 10.2. Hoa hồng cá nhân
+> ⚠️ Phụ cấp trách nhiệm gắn với việc làm tròn các trách nhiệm quản lý cụ thể. Xem [Quy định Phụ cấp Trách nhiệm — Quản lý cấp trung](../quy-dinh-nhan-su/phu-cap-trach-nhiem.md) để biết danh sách trách nhiệm bắt buộc và bảng vi phạm/mức trừ.
 
-Quầy trưởng giữ nguyên tỷ lệ hoa hồng như Tư vấn viên (mục 6) khi trực tiếp tư vấn và chốt hợp đồng. Không có thưởng doanh số nhóm riêng cho vị trí này.
+### 9.2. Hoa hồng cá nhân
 
-### 10.3. Thưởng phòng khám
+Quầy trưởng giữ nguyên tỷ lệ hoa hồng như Tư vấn viên (mục 6) khi trực tiếp tư vấn và chốt hợp đồng. Không có thưởng nhóm riêng cho vị trí này.
+
+### 9.3. Thưởng phòng khám
 
 Quầy trưởng tham gia quỹ thưởng bộ phận quầy (mục 8) theo cơ chế điểm giống các thành viên khác. Không có khoản thưởng phòng khám riêng ngoài quỹ chung này — ghi nhận vai trò quản lý được phản ánh qua phụ cấp trách nhiệm cố định.
 
@@ -277,13 +240,13 @@ Quầy trưởng tham gia quỹ thưởng bộ phận quầy (mục 8) theo cơ 
 
 ---
 
-## 11. Chế độ riêng cho Quản lý cơ sở
+## 10. Chế độ riêng cho Quản lý cơ sở
 
-Quản lý cơ sở áp dụng **toàn bộ cơ cấu thu nhập như Tư vấn viên** ở các mục 2, 3, 4, 5, 6, 7, 8 và 9 của văn bản này. Phần riêng của QLCS chỉ gồm **phụ cấp trách nhiệm quản lý cơ sở** và **thưởng phòng khám**.
+Quản lý cơ sở áp dụng **toàn bộ cơ cấu thu nhập như Tư vấn viên** ở các mục 2, 3, 4, 5, 6, 7 và 8 của văn bản này. Phần riêng của QLCS chỉ gồm **phụ cấp trách nhiệm quản lý cơ sở** và **thưởng phòng khám**.
 
 > Quản lý cơ sở chỉ được xét sau khi Quầy trưởng đã đạt mức phụ cấp 2.000.000 đ và giữ thêm tối thiểu 1 năm kinh nghiệm Quầy trưởng.
 
-### 11.1. Phụ cấp trách nhiệm QLCS
+### 10.1. Phụ cấp trách nhiệm QLCS
 
 | Giai đoạn    | Điều kiện                                                                         | Phụ cấp/tháng |
 | ------------ | --------------------------------------------------------------------------------- | ------------- |
@@ -292,30 +255,32 @@ Quản lý cơ sở áp dụng **toàn bộ cơ cấu thu nhập như Tư vấn 
 
 > Phụ cấp được tính từ tháng đầu tiên chính thức đảm nhiệm vai trò QLCS. Khi thôi giữ vai trò, phụ cấp dừng ngay tháng tiếp theo.
 
-### 11.2. Thưởng phòng khám
+### 10.2. Thưởng phòng khám
 
 Khoản thưởng gắn với kết quả doanh thu toàn chi nhánh — tạo động lực để QLCS chịu trách nhiệm thực sự với kết quả chung, không chỉ phần cá nhân.
 
 | Điều kiện                                     | Mức thưởng                    |
 | --------------------------------------------- | ----------------------------- |
-| Phòng khám đạt mức sàn doanh thu trong tháng  | **0,5%** doanh thu phòng khám |
-| Phòng khám đạt mục tiêu doanh thu trong tháng | **1,0%** doanh thu phòng khám |
+| Phòng khám đạt mức sàn doanh thu trong tháng  | **0,4%** doanh thu phòng khám |
+| Phòng khám đạt mục tiêu doanh thu trong tháng | **0,8%** doanh thu phòng khám |
 
 **Nguyên tắc áp dụng:**
 
 - Hai mức **không cộng dồn** — đạt mức nào hưởng mức đó
-- Doanh thu tính thưởng là **doanh thu đã thu tiền** trong tháng
 - Chỉ áp dụng cho nhân sự đã được bổ nhiệm chính thức vào vai trò QLCS
 
 **Xử lý khi QLCS trực tiếp tư vấn:**
 
-QLCS vẫn được phép trực tiếp tư vấn và chốt hợp đồng, và sẽ hưởng hoa hồng cá nhân theo mục 6 trên phần doanh số đó. Tuy nhiên, để tránh tính hai lần trên cùng một đồng doanh thu, **doanh thu cá nhân của QLCS được loại ra** khỏi doanh thu phòng khám khi tính thưởng phòng khám.
+QLCS vẫn được phép trực tiếp tư vấn và chốt hợp đồng:
+
+- **Hoa hồng cá nhân của QLCS** (theo mục 6): tính trên **doanh số tư vấn cá nhân** của QLCS, như tư vấn viên thông thường.
+- **Thưởng phòng khám của QLCS**: để tránh tính hai lần khi cùng kết quả đã được ghi nhận qua hoa hồng cá nhân, phần **doanh thu thu được từ các hợp đồng do QLCS trực tiếp tư vấn** sẽ được loại ra khỏi doanh thu phòng khám trước khi áp dụng tỷ lệ.
 
 ```
-Doanh thu tính thưởng = Doanh thu phòng khám (đã thu tiền) − Doanh số cá nhân của QLCS
+Doanh thu tính thưởng = Doanh thu phòng khám − Doanh thu từ HĐ do QLCS trực tiếp tư vấn
 ```
 
-Việc đánh giá đạt sàn / đạt mục tiêu cũng dựa trên **doanh thu đã trừ** phần cá nhân QLCS.
+Việc đánh giá đạt sàn / đạt mục tiêu cũng dựa trên **doanh thu đã trừ** phần trên.
 
 **Ví dụ minh họa:**
 
@@ -325,13 +290,14 @@ Sàn doanh thu = 900.000.000 đ | Mục tiêu = 1.200.000.000 đ
 Tháng A — QLCS không trực tiếp tư vấn:
   Doanh thu phòng khám = 1.000.000.000 đ → đạt sàn, chưa đạt mục tiêu
   Doanh thu tính thưởng = 1.000.000.000 đ
-  Thưởng QLCS = 1.000.000.000 × 0,5% = 5.000.000 đ
+  Thưởng QLCS = 1.000.000.000 × 0,4% = 4.000.000 đ
 
-Tháng B — QLCS trực tiếp tư vấn 150.000.000 đ:
+Tháng B — QLCS chốt và khách trả đủ trong tháng (doanh số = doanh thu cá nhân = 150.000.000 đ):
   Doanh thu phòng khám = 1.300.000.000 đ → đạt mục tiêu
   Doanh thu tính thưởng = 1.300.000.000 − 150.000.000 = 1.150.000.000 đ
-  Thưởng QLCS = 1.150.000.000 × 1,0% = 11.500.000 đ
-  (Ngoài ra, QLCS còn nhận hoa hồng cá nhân = 150.000.000 × 1,0% = 1.500.000 đ theo mục 6)
+  Thưởng phòng khám của QLCS = 1.150.000.000 × 0,8% = 9.200.000 đ
+  Hoa hồng cá nhân (theo mục 6) = 150.000.000 × 1,0% = 1.500.000 đ
+  → QLCS nhận tổng = 10.700.000 đ trong tháng đó
 ```
 
 > Các khoản còn lại của QLCS, nếu có phát sinh trực tiếp từ tư vấn chốt hợp đồng hoặc giới thiệu khách, áp dụng đúng như Tư vấn viên theo mục 6 và 7.
@@ -339,3 +305,11 @@ Tháng B — QLCS trực tiếp tư vấn 150.000.000 đ:
 > Xem điều kiện bổ nhiệm và quy trình chuyển giao tại: [Chính sách bổ nhiệm — Quầy trưởng & QLCS](../quy-trinh-nhan-su/bo-nhiem-va-phat-trien-quay-truong-va-qlcs.md)
 
 ---
+
+## 11. Điều khoản chung
+
+- Thời gian thử việc: **1 tháng**, hưởng **85%** lương cơ bản bậc cơ bản (= 5.950.000 đ)
+- Sau thử việc: chính thức nhận **100%** lương, bắt đầu tính thâm niên
+- Hoa hồng (tư vấn viên), thưởng KPI và thưởng giới thiệu tính từ tháng hoàn thành thử việc
+- Lương tháng T được thanh toán vào ngày _(cập nhật)_ tháng T+1
+- Người có kinh nghiệm từ nơi khác không tự động xếp bậc cao — thử việc 1 tháng, sau đó được thi xếp bậc sớm nếu muốn
