@@ -1,10 +1,14 @@
 <!--
+Tên văn bản  : Phiếu Đồng ý Điều trị Nội nha
 Loại văn bản : Biểu mẫu (Phiếu đồng ý)
+Tên tiếng Anh: Endodontic (Root Canal) Consent
 Phiên bản    : 0.1 (BẢN ĐỀ XUẤT — chưa ban hành)
 Trạng thái   : Đang soạn thảo
 -->
 
 # PHIẾU ĐỒNG Ý ĐIỀU TRỊ NỘI NHA (LẤY TỦY)
+
+_English: Endodontic (Root Canal) Consent_
 
 > Ký trước khi điều trị. Lưu 01 bản trong hồ sơ bệnh án. Soạn theo [khung chuẩn](./_khung-chuan-phieu-dong-y.md).
 

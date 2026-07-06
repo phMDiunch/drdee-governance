@@ -87,9 +87,11 @@ Xem thêm cách xử lý các từ chối phổ biến tại [script-tu-van.md](
 
 ### Bước 6 — Ký hợp đồng và sắp lịch điều trị
 
-1. Mở mẫu hợp đồng điều trị, điền đầy đủ: tên BN, phác đồ, chi phí, lịch trình, điều khoản bảo hành.
+> **Bộ hồ sơ đầy đủ & trình tự (hợp đồng + phiếu khám + consent):** xem [Hướng dẫn dùng bộ hồ sơ khách hàng](../../07-phap-ly-va-tuan-thu/hop-dong/khach-hang/README.md) — có checklist theo dịch vụ. Consent do **bác sĩ giải thích & ký**, ký **trước thủ thuật**.
+
+1. Mở **hợp đồng theo dịch vụ** (implant / răng sứ / chỉnh nha; hoặc HĐ điều trị chung), điền đầy đủ: tên BN, phác đồ, **chi phí theo bảng giá công bố**, lịch trình, điều khoản bảo hành.
 2. Đọc lại các điểm chính cho BN nghe trước khi ký.
-3. Ký hợp đồng 2 bản — BN giữ 1 bản.
+3. Ký hợp đồng 2 bản — BN giữ 1 bản. Bảo đảm **phiếu khám** (bác sĩ lập) và **consent** cần thiết đã/được ký theo checklist.
 4. Phối hợp với lễ tân đặt lịch ca điều trị đầu tiên ngay tại thời điểm này.
 5. Thu đặt cọc (nếu theo chính sách): bàn giao lễ tân xử lý ngay.
 

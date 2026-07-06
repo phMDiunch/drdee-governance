@@ -1,10 +1,14 @@
 <!--
+Tên văn bản  : Phiếu Đồng ý Sử dụng Hình ảnh & Dữ liệu
 Loại văn bản : Biểu mẫu (Phiếu đồng ý)
+Tên tiếng Anh: Image & Data Use Consent
 Phiên bản    : 0.1 (BẢN ĐỀ XUẤT — chưa ban hành)
 Trạng thái   : Đang soạn thảo
 -->
 
 # PHIẾU ĐỒNG Ý SỬ DỤNG HÌNH ẢNH & DỮ LIỆU
+
+_English: Image & Data Use Consent_
 
 > **Văn bản đồng ý riêng, tự nguyện.** Quý khách có quyền **từ chối** mà **không ảnh hưởng** đến việc điều trị hay giá dịch vụ. Tuân thủ Nghị định 13/2023/NĐ-CP về bảo vệ dữ liệu cá nhân.
 

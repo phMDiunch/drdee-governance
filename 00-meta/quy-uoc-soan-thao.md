@@ -16,6 +16,29 @@
 
 ## 2. Cấu trúc chuẩn của một văn bản
 
+### 2.0. Metadata đầu file (bắt buộc)
+
+Mỗi file bắt đầu bằng khối chú thích metadata, thứ tự trường như sau:
+
+```
+<!--
+Tên văn bản  : [Tên tiếng Việt]
+Loại văn bản : Chính sách / Quy định / Quy trình / Biểu mẫu / Quy chế / Hợp đồng / Danh mục / Hướng dẫn
+Tên tiếng Anh: [English name]
+Phiên bản    : ...
+Hiệu lực     : ...
+Review tiếp  : ...
+Người ban hành: ...
+Trạng thái   : ...
+-->
+```
+
+- **Tên văn bản** (tiếng Việt) đặt **ngay trên** `Loại văn bản`; **Tên tiếng Anh** đặt ngay dưới — mỗi văn bản có **tên Việt + tên Anh** (DR DEE là nha khoa quốc tế, có khách nước ngoài).
+- Ngay dưới tiêu đề H1 (tiếng Việt), thêm dòng phụ đề `_English: [English name]_`.
+- **Không** dùng mã code riêng — `Loại văn bản` đã phân loại.
+
+### 2.1. Các phần nội dung
+
 Mỗi file nên có đủ các phần sau nếu phù hợp:
 
 1. Mục đích

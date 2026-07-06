@@ -72,7 +72,7 @@ Nếu một văn bản có yếu tố của nhiều nhóm, phân loại theo **r
 **Ví dụ đúng**:
 
 - `hop-dong-thu-viec.md`
-- `hop-dong-dich-vu-dieu-tri.md`
+- `hop-dong-implant.md`
 - `hop-dong-thue-mat-bang.md`
 - `thoa-thuan-cchn-va-trach-nhiem-chuyen-mon.md`
 

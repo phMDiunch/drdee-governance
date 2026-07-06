@@ -1,5 +1,7 @@
 <!--
+Tên văn bản  : Phiếu khám Răng sứ Thẩm mỹ
 Loại văn bản : Biểu mẫu (Phiếu lâm sàng — thuộc hồ sơ bệnh án)
+Tên tiếng Anh: Exam & Treatment Plan (Crown & Veneer)
 Phiên bản    : 0.1 (BẢN ĐỀ XUẤT — chưa ban hành)
 Hiệu lực     : —
 Review tiếp  : —
@@ -9,7 +11,9 @@ Trạng thái   : Đang soạn thảo
 
 # PHIẾU KHÁM RĂNG SỨ THẨM MỸ
 
-> Phiếu khám **chuyên môn đặc thù răng sứ** (thuộc hồ sơ bệnh án), do bác sĩ lập; gồm cả phần khai báo tiền sử liên quan. Đính kèm [Hợp đồng dịch vụ răng sứ](./hop-dong-rang-su-tham-my.md).
+_English: Exam & Treatment Plan (Crown & Veneer)_
+
+> Phiếu khám **chuyên môn đặc thù răng sứ** (thuộc hồ sơ bệnh án), do bác sĩ lập; gồm cả phần khai báo tiền sử liên quan. Đính kèm [Hợp đồng dịch vụ răng sứ](./hop-dong-rang-su.md).
 >
 > _Bản đề xuất — anh Đức rà/sửa theo thực tế phòng khám._
 

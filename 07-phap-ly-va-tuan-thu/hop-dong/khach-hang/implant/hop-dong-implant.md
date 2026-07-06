@@ -1,5 +1,7 @@
 <!--
+Tên văn bản  : Hợp đồng Dịch vụ Cấy ghép Implant Nha khoa
 Loại văn bản : Biểu mẫu (Hợp đồng khách hàng)
+Tên tiếng Anh: Dental Implant Service Contract
 Phiên bản    : 0.8 (BẢN ĐỀ XUẤT — chưa ban hành)
 Hiệu lực     : —
 Review tiếp  : —
@@ -8,6 +10,8 @@ Trạng thái   : Đang soạn thảo
 -->
 
 # Hợp đồng Dịch vụ Cấy ghép Implant Nha khoa — BẢN ĐỀ XUẤT
+
+_English: Dental Implant Service Contract_
 
 > File gồm 2 phần: **PHẦN A** (ghi chú soạn thảo — KHÔNG in) và **PHẦN B** (bản hợp đồng — in chính thức). Khi in cho khách, **chỉ in từ PHẦN B trở xuống**.
 
@@ -19,8 +23,8 @@ Trạng thái   : Đang soạn thảo
 
 ## A.1. Điểm đã chốt
 
-- Bảo hành 2 tầng **Toàn diện (TD) + Uy tín (UT)** theo Bảng giá 2026 (Phụ lục 1).
-- **UT phân tầng %**: Basic 40% · Standard 45% · Premium 50% · Luxury 60% (Straumann trọn đời 60%).
+- Bảo hành 2 tầng **Toàn diện (BHTD) + Uy tín (BHUT)** theo Bảng giá 2026 (Phụ lục 1).
+- **BHUT phân tầng %**: Basic 40% · Standard 45% · Premium 50% · Luxury 60% (Straumann trọn đời 60%).
 - **Số lần thay trụ miễn phí: 01 lần/vị trí/thành phần**; thời hạn **tính liên tục từ ngày cấy trụ, không reset khi thay**.
 - **Mốc bắt đầu bảo hành = ngày cấy trụ** (răng sứ tính từ ngày lắp sứ). Tổng thời hạn **cố định, không kéo dài bù** khi khách bỏ tái khám.
 - **Thất bại sớm** = trước khi lắp răng sứ hoặc trong 12 tháng đầu; **thất bại muộn** = sau đó (tiêu xương/viêm quanh implant).
@@ -35,7 +39,7 @@ Trạng thái   : Đang soạn thảo
 
 - ✅ Triết lý bảo hành thất bại muộn: **PA2** (đã chốt).
 - ✅ Thất bại sớm = **12 tháng** (đã chốt).
-- ✅ Consent: đã tách thành **module dùng chung** [dong-y-dieu-tri/](../../dong-y-dieu-tri/README.md); Phiếu đồng ý phẫu thuật Implant chuẩn quốc tế — hợp đồng **dẫn chiếu** (bỏ Phụ lục 4 nhúng).
+- ✅ Consent: đã tách thành **module dùng chung** [dong-y-dieu-tri/](../phieu-dong-y/README.md); Phiếu đồng ý phẫu thuật Implant chuẩn quốc tế — hợp đồng **dẫn chiếu** (bỏ Phụ lục 4 nhúng).
 
 **Hợp đồng implant đã tương đối hoàn chỉnh.** Bước tiếp: điền bảng giá/kế hoạch theo ca khi ký; **luật sư rà soát**; chốt v1.0. Còn 5 phiếu đồng ý khác trong module ở dạng khung, soạn chi tiết khi cần.
 
@@ -52,7 +56,7 @@ Trạng thái   : Đang soạn thảo
 
 ## A.4. Rà soát v0.7
 
-- Sửa mâu thuẫn định nghĩa TD (Điều 1.5 ↔ 5.1); làm rõ loại trừ 5.5.
+- Sửa mâu thuẫn định nghĩa BHTD (Điều 1.5 ↔ 5.1); làm rõ loại trừ 5.5.
 - Bổ sung: Tổng giá trị HĐ (Điều 4.1); **bất khả kháng** & **hiệu lực từng phần** (Điều 12); **bảo hành không chuyển nhượng, chỉ tại DR DEE, trụ ngừng SX → thay tương đương** (Điều 5.7); quyền chủ thể dữ liệu (Điều 9.1); rủi ro thần kinh/xoang (Điều 6.1); dòng chức danh + ghi chú **ký nháy/đóng dấu giáp lai** khi in.
 - **Còn cần khi lên bản ký chính thức:** dựng Word có letterhead + số trang; điền số cụ thể (cọc %, tổng giá trị); **luật sư hành nghề rà soát** trước khi ban hành.
 
@@ -71,9 +75,9 @@ Trạng thái   : Đang soạn thảo
 
 <div align="center">
 
-**CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM**
-**Độc lập – Tự do – Hạnh phúc**
-_______________
+**CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM**<br>
+**Độc lập – Tự do – Hạnh phúc**<br>
+———————————
 
 **HỢP ĐỒNG DỊCH VỤ CẤY GHÉP IMPLANT NHA KHOA**
 
@@ -92,7 +96,7 @@ Số: ……/HĐ/IPL-DRDEE
 - Nghị định số 13/2023/NĐ-CP về bảo vệ dữ liệu cá nhân;
 - Nhu cầu và khả năng của hai bên.
 
-### BÊN SỬ DỤNG DỊCH VỤ (BÊN A — Khách hàng)
+### BÊN A — BÊN SỬ DỤNG DỊCH VỤ (KHÁCH HÀNG)
 
 - Họ và tên: ………………………………………  Giới tính: …………
 - Ngày sinh: ………………  Quốc tịch: …………………
@@ -101,9 +105,11 @@ Số: ……/HĐ/IPL-DRDEE
 - Số điện thoại: …………………………
 - Người đại diện/Người giám hộ (nếu Bên A dưới 18 tuổi hoặc mất/hạn chế năng lực hành vi): ……………………  CCCD: ……………  Quan hệ: …………
 
-**Khám, khai báo y tế & chẩn đoán:** Bên A được bác sĩ khám, khai báo tiền sử và lập kế hoạch tại **Phiếu khám Implant (Phụ lục 3)** (bao gồm phần khai báo tiền sử/tình trạng toàn thân; do bác sĩ lập, đính kèm, là bộ phận không tách rời của Hợp đồng). Bên A cam kết đã **khai báo trung thực** tình trạng sức khỏe, bệnh sử và thuốc đang dùng (đặc biệt thuốc chống đông, biphosphonat).
+_(Sau đây gọi là **“Bên A”**)_
 
-### BÊN CUNG CẤP DỊCH VỤ (BÊN B) — thuộc hệ thống Nha khoa Quốc tế DR DEE
+### BÊN B — BÊN CUNG CẤP DỊCH VỤ
+
+_Thuộc hệ thống Nha khoa Quốc tế DR DEE_
 
 - Tên cơ sở / chi nhánh thực hiện: ………………………………………
 - Địa chỉ: ………………………………………
@@ -111,9 +117,13 @@ Số: ……/HĐ/IPL-DRDEE
 - Mã số thuế: ……………………
 - Điện thoại: ……………………
 
-Nha khoa Quốc tế DR DEE trân trọng cảm ơn Quý khách đã tin tưởng lựa chọn dịch vụ. Chúng tôi **cam kết đồng hành cùng Quý khách** trong suốt quá trình điều trị và bảo hành lâu dài. Hợp đồng này nhằm **minh bạch quyền lợi, chi phí và cách chăm sóc**, để hai bên cùng phối hợp đạt kết quả tốt nhất.
+_(Sau đây gọi là **“Bên B”**. Bên A và Bên B sau đây gọi chung là **“hai Bên”**, gọi riêng là **“mỗi Bên”**.)_
 
-Sau khi trao đổi, hai bên thống nhất ký kết hợp đồng với các điều khoản sau:
+---
+
+Nha khoa Quốc tế DR DEE trân trọng cảm ơn Quý khách đã tin tưởng lựa chọn dịch vụ. Chúng tôi **cam kết đồng hành cùng Quý khách** trong suốt quá trình điều trị và bảo hành lâu dài. Hợp đồng này nhằm **minh bạch quyền lợi, chi phí và cách chăm sóc**, để hai Bên cùng phối hợp đạt kết quả tốt nhất.
+
+Sau khi trao đổi, trên tinh thần **tự nguyện, bình đẳng, thiện chí và cùng có lợi**, hai Bên thống nhất ký kết Hợp đồng dịch vụ cấy ghép Implant nha khoa (sau đây gọi là **“Hợp đồng”**) với các điều khoản sau:
 
 ---
 
@@ -123,8 +133,8 @@ Sau khi trao đổi, hai bên thống nhất ký kết hợp đồng với các 
 2. **Abutment (khớp nối)**: bộ phận kết nối trụ Implant với mão/răng sứ phục hình.
 3. **Răng sứ/phục hình trên Implant**: phần phục hình gắn lên Implant nhằm phục hồi chức năng ăn nhai và thẩm mỹ.
 4. **Dịch vụ**: toàn bộ quá trình gồm khám, chẩn đoán, chụp phim, lập kế hoạch, điều trị tiền phẫu (nha chu/nhổ răng), ghép xương/nâng xoang/ghép lợi (nếu có chỉ định), cấy trụ Implant, gắn healing, lấy dấu, lắp phục hình, chăm sóc hậu phẫu và tái khám định kỳ.
-5. **Bảo hành toàn diện (TD)**: thời hạn Bên B thay mới/khắc phục miễn phí khi lỗi kỹ thuật/vật liệu, hoặc khi thất bại muộn mà Bên A đã tuân thủ đầy đủ điều kiện bảo hành (chi tiết Điều 5).
-6. **Bảo hành uy tín (UT)**: thời hạn nối tiếp sau TD, Bên B hỗ trợ một phần chi phí (có điều kiện).
+5. **Bảo hành toàn diện (BHTD)**: thời hạn bảo hành **chính hãng** đối với trụ Implant theo nhà cung cấp. Trong thời hạn này, Bên B thay mới/khắc phục **miễn phí — bao gồm cả công thực hiện của phòng khám** — khi lỗi kỹ thuật/vật liệu, hoặc khi thất bại muộn mà Bên A đã tuân thủ đầy đủ điều kiện bảo hành.
+6. **Bảo hành uy tín (BHUT)**: **bảo hành thêm từ phòng khám** (ngoài bảo hành chính hãng) — thời hạn nối tiếp sau BHTD, trong đó Bên B hỗ trợ một phần chi phí (có điều kiện).
 7. **Thất bại sớm**: trụ không tích hợp xương trong giai đoạn lành thương — **trước khi lắp răng sứ hoặc trong vòng 12 tháng** kể từ ngày cấy trụ.
 8. **Thất bại muộn**: hư hỏng/rơi trụ sau khi đã tích hợp và sử dụng ổn định (sau mốc thất bại sớm), thường do viêm quanh Implant/tiêu xương.
 
@@ -133,7 +143,7 @@ Sau khi trao đổi, hai bên thống nhất ký kết hợp đồng với các 
 ### ĐIỀU 2. NỘI DUNG, PHẠM VI VÀ ĐỊA ĐIỂM DỊCH VỤ
 
 1. Bên A đồng ý sử dụng dịch vụ cấy ghép Implant do Bên B cung cấp nhằm phục hồi răng đã mất, cải thiện chức năng ăn nhai và thẩm mỹ.
-2. Loại/gói Implant lựa chọn: theo **Phiếu khám Implant (Phụ lục 3)** và **Bảng chi phí** (Phụ lục 1).
+2. Loại/gói Implant lựa chọn: theo **[Phiếu khám Implant](./phieu-kham-implant.md)** và **Bảng chi phí** (Phụ lục 1).
 3. Địa điểm thực hiện: tại cơ sở của Bên B ghi trên Hợp đồng. Trường hợp cần thay đổi địa điểm, bên có nhu cầu phải thông báo trước tối thiểu **03 ngày** và được bên còn lại chấp thuận bằng văn bản.
 4. Thời gian thực hiện dự kiến: **02 – 06 tháng**. Các ca phức tạp (nâng xoang, ghép xương, phối hợp chuyên khoa…) có thể kéo dài hơn.
 
@@ -161,16 +171,16 @@ Sau khi trao đổi, hai bên thống nhất ký kết hợp đồng với các 
 
 ### ĐIỀU 5. CHẾ ĐỘ BẢO HÀNH
 
-Các mức bảo hành áp dụng theo **loại trụ Implant đã lựa chọn**, chi tiết tại **Phụ lục 1**. Mỗi dòng trụ có tổng thời gian bảo hành = **Toàn diện (TD)** + **Uy tín (UT)**.
+Các mức bảo hành áp dụng theo **loại trụ Implant đã lựa chọn**, chi tiết tại **Phụ lục 1**. Mỗi dòng trụ có tổng thời gian bảo hành = **Toàn diện (BHTD)** + **Uy tín (BHUT)**.
 
 1. **Hai mức bảo hành:**
-   - **Toàn diện (TD)**: trong thời hạn TD, Bên B **thay mới/khắc phục miễn phí** trụ/abutment/răng sứ khi: (i) hư hỏng **do lỗi kỹ thuật hoặc vật liệu** (kể cả thất bại sớm — trụ không tích hợp; gãy/lỏng abutment–ốc; sứ bong, vỡ do lỗi gắn); **hoặc** (ii) **thất bại muộn** (tiêu xương/hư trụ) mà Bên A **đã tuân thủ đầy đủ điều kiện bảo hành** (khoản 3). **Số lần thay trụ miễn phí: tối đa 01 lần/vị trí**; từ lần thứ 2 áp dụng mức uy tín. **Không miễn phí** nếu thất bại muộn do Bên A vi phạm điều kiện (khoản 5).
-   - **Uy tín (UT)**: sau khi hết thời hạn TD, Bên B **hỗ trợ một phần chi phí** theo % của phân khúc (Phụ lục 1) trên giá niêm yết tại thời điểm xử lý. Đây là **chính sách hỗ trợ có điều kiện**, không phải thay mới miễn phí.
+   - **Toàn diện (BHTD)**: trong thời hạn BHTD, Bên B **thay mới/khắc phục miễn phí** trụ/abutment/răng sứ khi: (i) hư hỏng **do lỗi kỹ thuật hoặc vật liệu** (kể cả thất bại sớm — trụ không tích hợp; gãy/lỏng abutment–ốc; sứ bong, vỡ do lỗi gắn); **hoặc** (ii) **thất bại muộn** (tiêu xương/hư trụ) mà Bên A **đã tuân thủ đầy đủ điều kiện bảo hành** (khoản 3). **Số lần thay trụ miễn phí: tối đa 01 lần/vị trí**; từ lần thứ 2 áp dụng mức uy tín. **Không miễn phí** nếu thất bại muộn do Bên A vi phạm điều kiện (khoản 5).
+   - **Uy tín (BHUT)**: sau khi hết thời hạn BHTD, Bên B **hỗ trợ một phần chi phí** theo % của phân khúc (Phụ lục 1) trên giá niêm yết tại thời điểm xử lý. Đây là **chính sách hỗ trợ có điều kiện**, không phải thay mới miễn phí.
 
 2. **Mốc bắt đầu và cách tính thời hạn:**
    - Bảo hành trụ tính từ **ngày cấy trụ Implant**; bảo hành răng sứ tính từ **ngày lắp răng sứ**.
-   - Toàn bộ thời hạn (TD rồi UT) tính **liên tục từ ngày cấy trụ ban đầu**. Việc **thay trụ trong thời hạn TD không làm bắt đầu lại** thời hạn bảo hành: trụ thay thế **kế thừa thời hạn còn lại**; UT bắt đầu khi hết thời hạn TD tính từ ngày cấy trụ ban đầu.
-   - _Ví dụ: trụ Standard (TD 10 năm + UT 5 năm), thay lại miễn phí ở năm thứ 5 → trụ mới còn **5 năm TD + 5 năm UT**. Nếu hỏng tiếp, đã hết suất thay miễn phí (01 lần) → chỉ áp mức uy tín._
+   - Toàn bộ thời hạn (BHTD rồi BHUT) tính **liên tục từ ngày cấy trụ ban đầu**. Việc **thay trụ trong thời hạn BHTD không làm bắt đầu lại** thời hạn bảo hành: trụ thay thế **kế thừa thời hạn còn lại**; BHUT bắt đầu khi hết thời hạn BHTD tính từ ngày cấy trụ ban đầu.
+   - _Ví dụ: trụ Standard (BHTD 10 năm + BHUT 5 năm), thay lại miễn phí ở năm thứ 5 → trụ mới còn **5 năm BHTD + 5 năm BHUT**. Nếu hỏng tiếp, đã hết suất thay miễn phí (01 lần) → chỉ áp mức uy tín._
 
 3. **Điều kiện duy trì bảo hành** — Bên A phải liên tục đáp ứng:
    - Tái khám định kỳ **6 tháng/lần** tại cơ sở của Bên B;
@@ -181,18 +191,19 @@ Các mức bảo hành áp dụng theo **loại trụ Implant đã lựa chọn*
    - Sử dụng máng chống nghiến nếu có chỉ định.
 
 4. **Tổng thời hạn & treo bảo hành:**
-   - Tổng thời hạn bảo hành (TD + UT) là **cố định tính từ ngày cấy trụ, không được kéo dài** để bù cho thời gian Bên A không tái khám.
+   - Tổng thời hạn bảo hành (BHTD + BHUT) là **cố định tính từ ngày cấy trụ, không được kéo dài** để bù cho thời gian Bên A không tái khám.
    - Quá **90 ngày** không tái khám kể từ ngày Bên B thông báo lịch hẹn → bảo hành **bị treo** trong giai đoạn đó: **hư hỏng phát sinh hoặc liên quan đến giai đoạn không tái khám sẽ không được bảo hành**. Khi Bên A tái khám trở lại và bác sĩ xác nhận trụ còn đủ điều kiện → bảo hành **tiếp tục cho thời hạn còn lại** (không cộng bù thời gian đã treo).
    - Bảo hành **không áp dụng** đối với: hư hỏng đã xảy ra trong thời gian treo; các trường hợp điều kiện tại khoản 3 chưa được đáp ứng; hoặc khi thông tin y tế khai báo không chính xác.
 
 5. **Phạm vi & loại trừ:** Bên B bảo hành **sản phẩm (trụ Implant/abutment/răng sứ)**, **không bảo hành** tình trạng xương–nướu của Bên A. **Không áp dụng bảo hành** khi:
    - **Thất bại muộn do viêm quanh Implant/tiêu xương mà Bên A không tuân thủ điều kiện** (vệ sinh kém, hút thuốc, bệnh lý toàn thân không kiểm soát, hoặc bỏ tái khám) — xác định qua phim chụp theo thời gian và lịch sử tái khám;
+   - **Lỏng vít/abutment, răng lung lay mà Bên A không đến siết/xử lý kịp thời**, để kéo dài dẫn đến tiêu xương và/hoặc gãy trụ: phần hư hỏng **tiến triển do chậm xử lý** (tiêu xương, gãy trụ) không được bảo hành. _(Ví dụ: nếu Bên A đến siết lại vít/abutment kịp thời trong thời hạn và trước khi phát sinh biến chứng thì được Bên B khắc phục miễn phí theo khoản 1; nếu để răng lung lay lâu ngày gây tiêu xương, gãy trụ thì phần biến chứng đó không thuộc phạm vi bảo hành.)_;
    - Tai nạn/chấn thương/cắn vật cứng; nghiến răng không dùng máng theo chỉ định; tự can thiệp/điều trị tại cơ sở khác.
    - Chi tiết tại Phụ lục 1.
 
 6. **Xử lý bảo hành:** lỗi do Bên B → theo khoản 1; hư hỏng do lỗi Bên A → tính chi phí theo bảng giá hiện hành. Mỗi thành phần (trụ, abutment, ốc, răng sứ) được thay/khắc phục **miễn phí 01 lần** theo quy định chung tại khoản 1 nếu do lỗi kỹ thuật/vật liệu.
 
-7. **Phạm vi người hưởng & nơi bảo hành:** bảo hành chỉ có giá trị đối với **chính Bên A**, **không chuyển nhượng** cho người khác, và chỉ được thực hiện **tại hệ thống Nha khoa Quốc tế DR DEE**. Trường hợp dòng trụ đã cấy **ngừng sản xuất**, Bên B thay thế bằng dòng **tương đương trở lên**.
+7. **Phạm vi người hưởng & nơi bảo hành:** bảo hành chỉ có giá trị đối với **chính Bên A**, **không chuyển nhượng** cho người khác, và chỉ được thực hiện **tại hệ thống Nha khoa Quốc tế DR DEE**. Trường hợp dòng trụ đã cấy **ngừng cung cấp**, Bên B thay thế bằng dòng **tương đương trở lên**.
 
 ---
 
@@ -259,19 +270,26 @@ Các mức bảo hành áp dụng theo **loại trụ Implant đã lựa chọn*
 
 ### ĐIỀU 12. ĐIỀU KHOẢN CHUNG
 
-1. Các phụ lục (1, 2, 3) và **Phiếu đồng ý phẫu thuật Implant** (ký riêng) là **bộ phận không tách rời** của Hợp đồng.
+1. Các phụ lục (1, 2), **Phiếu khám implant** và **Phiếu đồng ý phẫu thuật Implant** (ký riêng) là **bộ phận không tách rời** của Hợp đồng.
 2. Mọi sửa đổi, bổ sung phải lập thành văn bản, có chữ ký của đại diện có thẩm quyền hai bên.
 3. Hợp đồng có hiệu lực kể từ ngày ký; không bên nào được đơn phương hủy ngang nếu không có căn cứ pháp lý.
 4. **Bất khả kháng**: các bên được miễn trách phần nghĩa vụ không thực hiện được do sự kiện bất khả kháng (thiên tai, dịch bệnh, hỏa hoạn, chiến tranh, quyết định của cơ quan nhà nước có thẩm quyền…) theo quy định pháp luật; bên gặp sự kiện phải thông báo kịp thời cho bên còn lại.
 5. **Hiệu lực từng phần**: nếu một điều khoản của Hợp đồng bị xác định vô hiệu, các điều khoản còn lại vẫn giữ nguyên hiệu lực; hai bên thỏa thuận thay thế điều khoản vô hiệu bằng điều khoản hợp pháp có nội dung gần nhất.
-6. Hợp đồng gồm **02 bản** giá trị pháp lý như nhau, mỗi bên giữ 01 bản.
+6. Hợp đồng gồm **02 bản** có giá trị pháp lý như nhau, mỗi Bên giữ 01 bản.
+
+---
+
+**Hợp đồng được lập tại ……………………, ngày …… tháng …… năm ………**, gồm ……… (………………) trang cùng các phụ lục kèm theo. Hai Bên đã cùng đọc, hiểu rõ và nhất trí toàn bộ nội dung Hợp đồng trước khi ký tên dưới đây.
 
 <div align="center">
 
-| ĐẠI DIỆN BÊN A (KHÁCH HÀNG) | ĐẠI DIỆN BÊN B (NHA KHOA) |
-| --------------------------- | ------------------------------- |
-| _(Ký, ghi rõ họ tên)_       | _(Ký, ghi rõ họ tên, đóng dấu)_ |
-|                             | Chức danh: ……………………             |
+| **ĐẠI DIỆN BÊN A**<br>_(Khách hàng)_ | **ĐẠI DIỆN BÊN B**<br>_(Nha khoa Quốc tế DR DEE)_ |
+| :---: | :---: |
+| _(Ký, ghi rõ họ và tên)_ | _(Ký, ghi rõ họ và tên, đóng dấu)_ |
+| &nbsp; | &nbsp; |
+| &nbsp; | &nbsp; |
+| Họ và tên: …………………………… | Họ và tên: …………………………… |
+|  | Chức danh: …………………………… |
 
 </div>
 
@@ -285,9 +303,9 @@ _(Kèm theo Hợp đồng số ……/HĐ/IPL-DRDEE)_
 
 ### 1.1. Bảo hành theo dòng trụ Implant
 
-> Tổng bảo hành = **Toàn diện (TD)** + **Uy tín (UT)**. Thời hạn tính từ **ngày cấy trụ**.
+> Tổng bảo hành = **Toàn diện (BHTD)** + **Uy tín (BHUT)**. Thời hạn tính từ **ngày cấy trụ**.
 
-| Phân khúc   | Dòng trụ (ví dụ)                            | TD (thay mới miễn phí) | UT (hỗ trợ %)                         |
+| Phân khúc   | Dòng trụ (ví dụ)                            | BHTD (thay mới miễn phí) | BHUT (hỗ trợ %)                         |
 | ----------- | ------------------------------------------- | ---------------------- | ------------------------------------- |
 | **Basic**   | Yes Biotech                                 | 1 năm                  | —                                     |
 |             | Neo Biotech IS II                           | 5 năm                  | 2 năm — hỗ trợ **40%**                |
@@ -308,16 +326,16 @@ _(Kèm theo Hợp đồng số ……/HĐ/IPL-DRDEE)_
 | Lava (Mỹ)       | 15 năm   |
 
 **Ghi chú:**
-- **TD**: thay mới miễn phí khi lỗi kỹ thuật/vật liệu; **tối đa 01 lần thay trụ/vị trí**; thời hạn không reset khi thay trụ.
-- **UT**: hỗ trợ % nêu trên trên giá niêm yết tại thời điểm xử lý — **có điều kiện** (Điều 5.3), không phải thay mới miễn phí.
-- Không cam kết "vĩnh viễn tuyệt đối". "Trọn đời UT" = được hỗ trợ theo % trọn đời **khi Bên A đáp ứng đủ điều kiện bảo hành**.
+- **BHTD**: thay mới miễn phí khi lỗi kỹ thuật/vật liệu; **tối đa 01 lần thay trụ/vị trí**; thời hạn không reset khi thay trụ.
+- **BHUT**: hỗ trợ % nêu trên trên giá niêm yết tại thời điểm xử lý — **có điều kiện** (Điều 5.3), không phải thay mới miễn phí.
+- Không cam kết "vĩnh viễn tuyệt đối". "Trọn đời BHUT" = được hỗ trợ theo % trọn đời **khi Bên A đáp ứng đủ điều kiện bảo hành**.
 - Áp dụng loại trừ tại Điều 5.5.
 
 ### 1.2. Chi phí ca điều trị (điền theo ca — theo bảng giá công bố tại thời điểm ký)
 
 | STT | Hạng mục            | Đơn giá (VNĐ) | SL | Thành tiền (VNĐ) | Bảo hành |
 | --- | ------------------- | ------------- | -- | ---------------- | -------- |
-| 1   | Trụ Implant (dòng…) |               |    |                  | … (TD/UT)|
+| 1   | Trụ Implant (dòng…) |               |    |                  | … (BHTD/BHUT)|
 | 2   | Abutment            |               |    |                  |          |
 | 3   | Răng sứ trên Implant (loại…) |      |    |                  | … năm    |
 | 4   | Ghép xương          |               |    |                  | Không áp dụng |
@@ -347,15 +365,15 @@ Bằng chữ: ……………………………………………
 |           | Straumann            | 40.000.000 đ |
 |           | Straumann Active     | 46.000.000 đ |
 
-**Răng sứ trên Implant (giá niêm yết / răng):**
+**Răng sứ trên Implant (giá niêm yết / răng — thời hạn bảo hành xem mục 1.1):**
 
-| Loại răng sứ    | Giá niêm yết | Bảo hành |
-| --------------- | -----------: | -------- |
-| Sứ thường (VN)  | 1.500.000 đ  | 1 năm    |
-| Sứ titan (Nhật) | 2.500.000 đ  | 3 năm    |
-| Zirconia (Đức)  | 4.000.000 đ  | 5 năm    |
-| Venus (Đức)     | 5.000.000 đ  | 10 năm   |
-| Lava (Mỹ)       | 10.000.000 đ | 15 năm   |
+| Loại răng sứ    | Giá niêm yết |
+| --------------- | -----------: |
+| Sứ thường (VN)  | 1.500.000 đ |
+| Sứ titan (Nhật) | 2.500.000 đ |
+| Zirconia (Đức)  | 4.000.000 đ |
+| Venus (Đức)     | 5.000.000 đ |
+| Lava (Mỹ)       | 10.000.000 đ |
 
 **Dịch vụ liên quan (giá niêm yết):**
 
@@ -370,32 +388,23 @@ Bằng chữ: ……………………………………………
 
 ## PHỤ LỤC 2 — KẾ HOẠCH ĐIỀU TRỊ & LỘ TRÌNH THANH TOÁN
 
-### 2.1. Kế hoạch điều trị
+### 2.1. Kế hoạch điều trị & thanh toán theo đợt
 
-| STT | Đợt điều trị                          | Thời gian dự kiến | Ghi chú |
-| --- | ------------------------------------- | ----------------- | ------- |
-| 1   | Khám, tư vấn, chụp phim, lấy dữ liệu  |                   |         |
-| 2   | Điều trị nha chu / nhổ răng (nếu có)  |                   |         |
-| 3   | Ghép xương / nâng xoang (nếu có)      |                   |         |
-| 4   | Cấy ghép Implant                      |                   |         |
-| 5   | Gắn healing / ghép mô mềm             |                   |         |
-| 6   | Lấy dấu phục hình                     |                   |         |
-| 7   | Lắp răng sứ trên Implant              |                   |         |
-| 8   | Tái khám định kỳ                      |                   |         |
+_Thanh toán theo tiến độ điều trị — mỗi đợt điều trị gắn với một đợt thanh toán tương ứng._
 
-### 2.2. Lộ trình thanh toán
+| STT | Đợt điều trị | Thời gian dự kiến | Số tiền thanh toán (VNĐ) | Ghi chú |
+| --- | --- | --- | ---: | --- |
+| 1 | Khám, tư vấn, chụp phim, lấy dữ liệu | |  | Đặt cọc |
+| 2 | Điều trị nha chu / nhổ răng (nếu có) | |  |  |
+| 3 | Ghép xương / nâng xoang (nếu có) | |  |  |
+| 4 | Cấy ghép Implant | |  |  |
+| 5 | Gắn healing / ghép mô mềm | |  |  |
+| 6 | Lấy dấu phục hình | |  |  |
+| 7 | Lắp răng sứ trên Implant | |  |  |
+| 8 | Tái khám định kỳ | | — |  |
+|  | **TỔNG CỘNG** | |  |  |
 
-| STT | Đợt thanh toán                        | Thời gian | Số tiền (VNĐ) | Ghi chú          |
-| --- | ------------------------------------- | --------- | ------------- | ---------------- |
-| 1   | Khám, tư vấn, lấy dữ liệu             |           |               | Đặt cọc          |
-| 2   | Điều trị nha chu / nhổ răng (nếu có)  |           |               |                  |
-| 3   | Ghép xương / nâng xoang (nếu có)      |           |               |                  |
-| 4   | Cấy ghép Implant                      |           |               |                  |
-| 5   | Gắn healing / ghép mô mềm             |           |               |                  |
-| 6   | Lấy dấu phục hình                     |           |               |                  |
-| 7   | Lắp răng sứ trên Implant              |           |               |                  |
-
-### 2.3. Nguyên tắc thanh toán
+### 2.2. Nguyên tắc thanh toán
 
 1. Thanh toán căn cứ Hợp đồng và các phụ lục kèm theo.
 2. Bên A thanh toán đầy đủ, đúng số tiền, đúng hạn theo từng đợt.
@@ -405,32 +414,9 @@ Bằng chữ: ……………………………………………
 
 ---
 
-## PHỤ LỤC 3 — PHIẾU KHÁM & LẬP KẾ HOẠCH IMPLANT
+## Phiếu khám & Phiếu đồng ý _(biểu mẫu kèm theo, ký riêng)_
 
-> Phiếu khám **đặc thù implant** (thuộc hồ sơ bệnh án), gồm cả phần khai báo tiền sử liên quan implant.
+- **Phiếu khám & Lập kế hoạch Implant** — biểu mẫu lâm sàng riêng (hồ sơ bệnh án), bác sĩ lập & ký cùng khách hàng: xem [phieu-kham-implant.md](./phieu-kham-implant.md).
+- **Phiếu đồng ý phẫu thuật Implant** — ký trước phẫu thuật; bác sĩ giải thích & ký: xem [dong-y-phau-thuat-implant.md](../phieu-dong-y/dong-y-phau-thuat-implant.md) trong module [Phiếu đồng ý điều trị](../phieu-dong-y/README.md).
 
-- Mã KH: ………  Họ tên: ………………  Ngày khám: …/…/…  Bác sĩ: ……………
-
-**Tiền sử & tình trạng toàn thân _(bệnh nhân khai báo — trọng yếu với implant):_**
-- Bệnh lý toàn thân: ☐ Tim mạch/huyết áp ☐ **Tiểu đường** ☐ **Rối loạn đông máu** ☐ **Loãng xương (đang/đã dùng biphosphonat)** ☐ Bệnh gan/thận ☐ Suy giảm miễn dịch ☐ Khác: …………
-- Thuốc đang dùng (đặc biệt **chống đông, biphosphonat, corticoid**): ……………………
-- Dị ứng (thuốc/thuốc tê/kim loại): ……………  ·  **Hút thuốc:** ☐ Không ☐ Có (…… điếu/ngày)  ·  Thai kỳ: ☐ Có ☐ Không
-- **Vị trí răng cần cấy**: ………  (VD: R11, R36, R45)
-- **Tình trạng xương ổ răng**: ☐ Đủ ☐ Tiêu nhẹ ☐ Tiêu TB ☐ Tiêu nặng
-- **Mô nướu**: ☐ Dày, đủ lợi sừng ☐ Mỏng, thiếu lợi sừng — Lợi sừng hóa: ☐ ≥2mm ☐ <2mm
-- **Nha chu**: ☐ Bình thường ☐ Viêm nhẹ ☐ Viêm nặng
-- **Răng đối diện / kế cận**: ☐ Mất ☐ Tự nhiên ☐ Phục hình ☐ Trồi/Lệch
-- **Phim CTCB**: ☐ Đã chụp ☐ Chưa chụp — Kích thước xương (Rộng×Cao mm): ……×…… — Mật độ: ☐ Xốp ☐ TB ☐ Cứng
-- **Hướng điều trị**: ☐ Cấy đơn lẻ ☐ Cấy + phục hình sau lành thương ☐ Cấy tức thì ☐ Trì hoãn ☐ All-on-4 ☐ All-on-6 ☐ Toàn hàm nhiều trụ ☐ Implant + hàm tháo lắp
-- **Trụ Implant lựa chọn**: ☐ Basic ☐ Standard ☐ Premium ☐ Luxury — Dòng: ……… — Kích thước: …×… mm — SL: …
-- **Phục hình**: ☐ Sứ thường ☐ Sứ titan ☐ Zirconia ☐ Venus ☐ Lava ☐ Abutment cá nhân hóa
-- **Dịch vụ đi kèm**: Ghép xương ☐ Không ☐ Có (Nhẹ/TB/Nặng) · Nâng xoang ☐ Không ☐ Có (kín/hở) · Ghép lợi ☐ Không ☐ Có
-- Ghi chú/tiến trình: ……………………………………
-
-*Bác sĩ điều trị (ký, ghi rõ họ tên) — Khách hàng/Người giám hộ (ký, ghi rõ họ tên)*
-
----
-
-## Phiếu đồng ý phẫu thuật Implant _(ký riêng)_
-
-> Trước phẫu thuật, Bên A ký **Phiếu đồng ý phẫu thuật Implant** theo mẫu chuẩn của cơ sở — xem [dong-y-phau-thuat-implant.md](../../dong-y-dieu-tri/dong-y-phau-thuat-implant.md) trong module [Phiếu đồng ý điều trị](../../dong-y-dieu-tri/README.md). Phiếu này ký riêng, lưu trong hồ sơ bệnh án, là bộ phận không tách rời của Hợp đồng.
+Cả hai phiếu ký riêng, lưu trong hồ sơ bệnh án, là **bộ phận không tách rời** của Hợp đồng.

@@ -1,10 +1,14 @@
 <!--
+Tên văn bản  : Phiếu Đồng ý Phẫu thuật Implant
 Loại văn bản : Biểu mẫu (Phiếu đồng ý)
+Tên tiếng Anh: Implant Surgery Consent
 Phiên bản    : 0.1 (BẢN ĐỀ XUẤT — chưa ban hành)
 Trạng thái   : Đang soạn thảo
 -->
 
 # PHIẾU ĐỒNG Ý THỰC HIỆN PHẪU THUẬT CẤY GHÉP IMPLANT
+
+_English: Implant Surgery Consent_
 
 > Ký **trước ngày phẫu thuật**, sau khi được bác sĩ giải thích trực tiếp. Lưu 01 bản trong hồ sơ bệnh án. Soạn theo [khung chuẩn](./_khung-chuan-phieu-dong-y.md).
 

@@ -1,12 +1,16 @@
 <!--
+Tên văn bản  : Phiếu Đồng ý Điều trị Chỉnh nha
 Loại văn bản : Biểu mẫu (Phiếu đồng ý)
+Tên tiếng Anh: Orthodontic Treatment Consent
 Phiên bản    : 0.1 (BẢN ĐỀ XUẤT — chưa ban hành)
 Trạng thái   : Đang soạn thảo
 -->
 
 # PHIẾU ĐỒNG Ý ĐIỀU TRỊ CHỈNH NHA (NIỀNG RĂNG)
 
-> Ký trước khi bắt đầu điều trị. Lưu 01 bản trong hồ sơ bệnh án. Soạn theo [khung chuẩn](./_khung-chuan-phieu-dong-y.md). Đi kèm [Hợp đồng dịch vụ chỉnh nha](../hop-dong/khach-hang/hop-dong-dich-vu-chinh-nha.md).
+_English: Orthodontic Treatment Consent_
+
+> Ký trước khi bắt đầu điều trị. Lưu 01 bản trong hồ sơ bệnh án. Soạn theo [khung chuẩn](./_khung-chuan-phieu-dong-y.md). Đi kèm [Hợp đồng dịch vụ chỉnh nha](../chinh-nha/hop-dong-chinh-nha.md).
 
 **Cơ sở:** ………………………  (thuộc hệ thống Nha khoa Quốc tế DR DEE)
 

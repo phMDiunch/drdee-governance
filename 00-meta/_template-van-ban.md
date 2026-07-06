@@ -1,5 +1,7 @@
 <!--
-Loại văn bản : Chính sách / Quy định / Quy trình / Biểu mẫu / Quy chế
+Tên văn bản  : [Tên tiếng Việt của văn bản]
+Loại văn bản : Chính sách / Quy định / Quy trình / Biểu mẫu / Quy chế / Hợp đồng / Danh mục / Hướng dẫn
+Tên tiếng Anh: [English name of the document]
 Phiên bản    : 0.1
 Hiệu lực     : DD/MM/YYYY
 Review tiếp  : DD/MM/YYYY
@@ -8,6 +10,8 @@ Trạng thái   : Đang soạn thảo
 -->
 
 # [Tên văn bản]
+
+_English: [English name]_
 
 > Mục đích một dòng của văn bản này.
 

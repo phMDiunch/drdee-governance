@@ -1,10 +1,14 @@
 <!--
+Tên văn bản  : Khung chuẩn Phiếu đồng ý
 Loại văn bản : Quy ước / Khung mẫu
+Tên tiếng Anh: Standard Consent Form Framework
 Phiên bản    : 0.1 (BẢN ĐỀ XUẤT)
 Trạng thái   : Đang soạn thảo
 -->
 
 # Khung chuẩn Phiếu Đồng ý Điều trị
+
+_English: Standard Consent Form Framework_
 
 > Mọi phiếu đồng ý trong module này phải có đủ **10 yếu tố bắt buộc** dưới đây (theo chuẩn informed consent WHO/JCI). Khi soạn phiếu cho một thủ thuật mới, dùng đúng khung này + bổ sung rủi ro riêng của thủ thuật.
 

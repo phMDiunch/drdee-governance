@@ -1,10 +1,14 @@
 <!--
+Tên văn bản  : Phiếu Đồng ý Làm răng sứ & Mài răng
 Loại văn bản : Biểu mẫu (Phiếu đồng ý)
+Tên tiếng Anh: Crown/Veneer & Tooth Preparation Consent
 Phiên bản    : 0.1 (BẢN ĐỀ XUẤT — chưa ban hành)
 Trạng thái   : Đang soạn thảo
 -->
 
 # PHIẾU ĐỒNG Ý LÀM RĂNG SỨ THẨM MỸ & MÀI RĂNG
+
+_English: Crown/Veneer & Tooth Preparation Consent_
 
 > Ký **trước khi mài răng**, sau khi được bác sĩ giải thích trực tiếp. Lưu 01 bản trong hồ sơ bệnh án. Soạn theo [khung chuẩn](./_khung-chuan-phieu-dong-y.md).
 

@@ -1,5 +1,7 @@
 <!--
+Tên văn bản  : Phiếu khám Chỉnh nha
 Loại văn bản : Biểu mẫu (Phiếu lâm sàng — thuộc hồ sơ bệnh án)
+Tên tiếng Anh: Exam & Treatment Plan (Orthodontics)
 Phiên bản    : 0.1 (BẢN ĐỀ XUẤT — chưa ban hành)
 Hiệu lực     : —
 Review tiếp  : —
@@ -9,7 +11,9 @@ Trạng thái   : Đang soạn thảo
 
 # PHIẾU KHÁM CHỈNH NHA
 
-> Phiếu khám **chuyên môn đặc thù chỉnh nha**, do bác sĩ lập; thuộc hồ sơ bệnh án. Đính kèm [Hợp đồng dịch vụ chỉnh nha](./hop-dong-dich-vu-chinh-nha.md).
+_English: Exam & Treatment Plan (Orthodontics)_
+
+> Phiếu khám **chuyên môn đặc thù chỉnh nha**, do bác sĩ lập; thuộc hồ sơ bệnh án. Đính kèm [Hợp đồng dịch vụ chỉnh nha](./hop-dong-chinh-nha.md).
 
 **Cơ sở:** ………………………  ·  **Mã KH:** …………  ·  **Ngày khám:** …… / …… / 20……
 

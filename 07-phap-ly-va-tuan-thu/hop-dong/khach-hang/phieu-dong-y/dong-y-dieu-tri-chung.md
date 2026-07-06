@@ -1,10 +1,14 @@
 <!--
+Tên văn bản  : Phiếu Đồng ý Điều trị Chung
 Loại văn bản : Biểu mẫu (Phiếu đồng ý)
+Tên tiếng Anh: General Treatment Consent
 Phiên bản    : 0.1 (BẢN ĐỀ XUẤT — chưa ban hành)
 Trạng thái   : Đang soạn thảo
 -->
 
 # PHIẾU ĐỒNG Ý KHÁM & ĐIỀU TRỊ (CHUNG)
+
+_English: General Treatment Consent_
 
 > Ký khi **tiếp nhận** — áp dụng cho **mọi bệnh nhân**, cho các dịch vụ khám và điều trị thông thường. Thủ thuật xâm lấn/phẫu thuật cần thêm **phiếu đồng ý theo thủ thuật** riêng.
 

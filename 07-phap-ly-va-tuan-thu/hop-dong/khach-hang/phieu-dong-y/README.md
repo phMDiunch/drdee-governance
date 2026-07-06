@@ -8,7 +8,7 @@
 
 - Consent là văn bản **pháp lý + lâm sàng** áp dụng cho nhiều dịch vụ → tránh sao chép mỗi hợp đồng một kiểu.
 - Chuẩn hóa theo **một khung chung** (xem [_khung-chuan-phieu-dong-y.md](./_khung-chuan-phieu-dong-y.md)) để mọi phiếu đủ yếu tố pháp lý.
-- Liên quan trực tiếp tới **an toàn người bệnh** — bồi đắp cho khối [Y khoa (03 — Vận hành)](../../03-van-hanh/y-khoa/README.md).
+- Liên quan trực tiếp tới **an toàn người bệnh** — bồi đắp cho khối [Y khoa (03 — Vận hành)](../../../../03-van-hanh/y-khoa/README.md).
 
 ---
 
@@ -23,7 +23,8 @@
 | [Đồng ý nhổ răng phẫu thuật / răng khôn](./dong-y-nho-rang-phau-thuat.md) | Nhổ răng khôn, tiểu phẫu | ✅ Bản đề xuất |
 | [Đồng ý sử dụng hình ảnh & dữ liệu](./dong-y-su-dung-hinh-anh.md) | Dùng ảnh trước/sau cho truyền thông | ✅ Bản đề xuất |
 | [Đồng ý chỉnh nha](./dong-y-chinh-nha.md) | Niềng răng (mắc cài / khay trong) | ✅ Bản đề xuất |
-| [Đồng ý gây tê / tiền mê](./dong-y-gay-te-tien-me.md) | Thủ thuật có gây tê/tiền mê | 🔨 Khung |
+| [Đồng ý gây tê / tiền mê](./dong-y-gay-te-tien-me.md) | Thủ thuật có gây tê/tiền mê/an thần | ✅ Bản đề xuất |
+| [Từ chối điều trị / khuyến nghị](./tu-choi-dieu-tri.md) | Khách **từ chối** chụp phim/điều trị/tái khám đề xuất | ✅ Bản đề xuất |
 
 ---
 

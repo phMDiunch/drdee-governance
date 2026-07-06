@@ -123,6 +123,7 @@ Ký hiệu `—` nghĩa là chưa điền/chưa ban hành chính thức.
 | [Script điện thoại — Lễ tân](../03-van-hanh/kinh-doanh/script-dien-thoai.md)              | Biểu mẫu  | 1.0       | 01/05/2026 | Đang soạn thảo |
 | [Script tư vấn trực tiếp](../03-van-hanh/kinh-doanh/script-tu-van.md)                     | Biểu mẫu  | 1.0       | 01/05/2026 | Đang soạn thảo |
 | [Form thông tin bệnh nhân mới](../03-van-hanh/kinh-doanh/bieu-mau/form-benh-nhan-moi.md)  | Biểu mẫu  | 1.0       | 01/05/2026 | Đang soạn thảo |
+| [Checklist ký hợp đồng tại quầy](../03-van-hanh/kinh-doanh/bieu-mau/checklist-ky-hop-dong.md)  | Biểu mẫu  | 0.1       | —          | Đang soạn thảo |
 
 ### 03 — Y khoa (Bác sĩ / Điều dưỡng — an toàn & chuyên môn)
 
@@ -182,26 +183,29 @@ Ký hiệu `—` nghĩa là chưa điền/chưa ban hành chính thức.
 | [HĐ lao động xác định thời hạn](../07-phap-ly-va-tuan-thu/hop-dong/nhan-su/hop-dong-lao-dong-xac-dinh-thoi-han.md)                   | Biểu mẫu            | 1.0       | 01/04/2026 | Đang soạn thảo |
 | [Thỏa thuận đào tạo & cam kết sau đào tạo](../07-phap-ly-va-tuan-thu/hop-dong/nhan-su/thoa-thuan-dao-tao-va-cam-ket-sau-dao-tao.md)  | Biểu mẫu            | 1.0       | 01/04/2026 | Đang soạn thảo |
 | [Thỏa thuận bảo mật thông tin](../07-phap-ly-va-tuan-thu/hop-dong/nhan-su/thoa-thuan-bao-mat-thong-tin.md)                           | Biểu mẫu            | 1.0       | 01/04/2026 | Đang soạn thảo |
-| [HĐ dịch vụ điều trị](../07-phap-ly-va-tuan-thu/hop-dong/khach-hang/hop-dong-dich-vu-dieu-tri.md)                                    | Biểu mẫu            | 1.0       | 01/04/2026 | Đang soạn thảo |
-| [Phụ lục điều chỉnh kế hoạch điều trị](../07-phap-ly-va-tuan-thu/hop-dong/khach-hang/phu-luc-dieu-chinh-ke-hoach-dieu-tri.md)        | Biểu mẫu            | 1.0       | 01/04/2026 | Đang soạn thảo |
-| [Thỏa thuận lịch thanh toán](../07-phap-ly-va-tuan-thu/hop-dong/khach-hang/thoa-thuan-lich-thanh-toan.md)                            | Biểu mẫu            | 1.0       | 01/04/2026 | Đang soạn thảo |
-| [Cam kết bảo hành điều trị](../07-phap-ly-va-tuan-thu/hop-dong/khach-hang/cam-ket-bao-hanh-dieu-tri.md)                              | Biểu mẫu            | 1.0       | 01/04/2026 | Đang soạn thảo |
-| [HĐ dịch vụ Implant (bản đề xuất + bản Word)](../07-phap-ly-va-tuan-thu/hop-dong/khach-hang/hop-dong-dich-vu-implant.md) | Biểu mẫu | 0.8 | — | Đang soạn thảo |
-| [HĐ dịch vụ Răng sứ thẩm mỹ (bản đề xuất)](../07-phap-ly-va-tuan-thu/hop-dong/khach-hang/hop-dong-rang-su-tham-my.md) | Biểu mẫu | 0.4 | — | Đang soạn thảo |
-| [HĐ dịch vụ Chỉnh nha (khung + PL mắc cài/khay trong)](../07-phap-ly-va-tuan-thu/hop-dong/khach-hang/hop-dong-dich-vu-chinh-nha.md) | Biểu mẫu | 0.1 | — | Đang soạn thảo |
+| [**Mục lục Hồ sơ Khách hàng**](../07-phap-ly-va-tuan-thu/hop-dong/khach-hang/danh-muc-ho-so-khach-hang.md) | Danh mục | 0.1 | — | Đang soạn thảo |
+| Phụ lục điều chỉnh/phát sinh — **theo dịch vụ ×3** ([implant](../07-phap-ly-va-tuan-thu/hop-dong/khach-hang/implant/phu-luc-dieu-chinh-phat-sinh-implant.md)·[răng sứ](../07-phap-ly-va-tuan-thu/hop-dong/khach-hang/rang-su/phu-luc-dieu-chinh-phat-sinh-rang-su.md)·[chỉnh nha](../07-phap-ly-va-tuan-thu/hop-dong/khach-hang/chinh-nha/phu-luc-dieu-chinh-phat-sinh-chinh-nha.md)) | Biểu mẫu | 0.1 | — | Đang soạn thảo |
+| Biên bản hoàn tất/bàn giao — **theo dịch vụ ×3** ([implant](../07-phap-ly-va-tuan-thu/hop-dong/khach-hang/implant/bien-ban-hoan-tat-implant.md)·[răng sứ](../07-phap-ly-va-tuan-thu/hop-dong/khach-hang/rang-su/bien-ban-hoan-tat-rang-su.md)·[chỉnh nha](../07-phap-ly-va-tuan-thu/hop-dong/khach-hang/chinh-nha/bien-ban-hoan-tat-chinh-nha.md)) | Biểu mẫu | 0.1 | — | Đang soạn thảo |
+| Đơn dừng & thanh lý — **theo dịch vụ ×3** ([implant](../07-phap-ly-va-tuan-thu/hop-dong/khach-hang/implant/don-dung-thanh-ly-implant.md)·[răng sứ](../07-phap-ly-va-tuan-thu/hop-dong/khach-hang/rang-su/don-dung-thanh-ly-rang-su.md)·[chỉnh nha](../07-phap-ly-va-tuan-thu/hop-dong/khach-hang/chinh-nha/don-dung-thanh-ly-chinh-nha.md)) | Biểu mẫu | 0.1 | — | Đang soạn thảo |
+| [HĐ dịch vụ Implant (bản đề xuất + bản Word)](../07-phap-ly-va-tuan-thu/hop-dong/khach-hang/implant/hop-dong-implant.md) | Biểu mẫu | 0.8 | — | Đang soạn thảo |
+| [HĐ dịch vụ Răng sứ thẩm mỹ (bản đề xuất)](../07-phap-ly-va-tuan-thu/hop-dong/khach-hang/rang-su/hop-dong-rang-su.md) | Biểu mẫu | 0.4 | — | Đang soạn thảo |
+| [HĐ dịch vụ Chỉnh nha (khung + PL mắc cài/khay trong)](../07-phap-ly-va-tuan-thu/hop-dong/khach-hang/chinh-nha/hop-dong-chinh-nha.md) | Biểu mẫu | 0.1 | — | Đang soạn thảo |
 | [Quy chế Phân công & Kiểm soát HĐ Khách hàng](../07-phap-ly-va-tuan-thu/hop-dong/khach-hang/phan-cong-va-kiem-soat-hop-dong-khach-hang.md) | Quy chế | 0.1 | — | Đang soạn thảo |
-| [Phiếu khám Chỉnh nha (gồm tiền sử)](../07-phap-ly-va-tuan-thu/hop-dong/khach-hang/phieu-kham-chinh-nha.md) | Biểu mẫu | 0.1 | — | Đang soạn thảo |
-| [Phiếu khám Răng sứ (gồm tiền sử)](../07-phap-ly-va-tuan-thu/hop-dong/khach-hang/phieu-kham-rang-su.md) | Biểu mẫu | 0.1 | — | Đang soạn thảo |
-| [Phiếu đồng ý điều trị — Module](../07-phap-ly-va-tuan-thu/dong-y-dieu-tri/README.md)                                                | Điều hướng          | 0.1       | —          | Đang soạn thảo |
-| [Khung chuẩn phiếu đồng ý](../07-phap-ly-va-tuan-thu/dong-y-dieu-tri/_khung-chuan-phieu-dong-y.md)                                   | Quy ước             | 0.1       | —          | Đang soạn thảo |
-| [Đồng ý điều trị chung](../07-phap-ly-va-tuan-thu/dong-y-dieu-tri/dong-y-dieu-tri-chung.md)                                          | Biểu mẫu            | 0.1       | —          | Đang soạn thảo |
-| [Đồng ý phẫu thuật Implant](../07-phap-ly-va-tuan-thu/dong-y-dieu-tri/dong-y-phau-thuat-implant.md)                                  | Biểu mẫu            | 0.1       | —          | Đang soạn thảo |
-| [Đồng ý làm răng sứ & mài răng](../07-phap-ly-va-tuan-thu/dong-y-dieu-tri/dong-y-lam-rang-su.md)                                     | Biểu mẫu            | 0.1       | —          | Đang soạn thảo |
-| [Đồng ý điều trị nội nha](../07-phap-ly-va-tuan-thu/dong-y-dieu-tri/dong-y-noi-nha.md)                                               | Biểu mẫu            | 0.1       | —          | Đang soạn thảo |
-| [Đồng ý nhổ răng phẫu thuật](../07-phap-ly-va-tuan-thu/dong-y-dieu-tri/dong-y-nho-rang-phau-thuat.md)                                | Biểu mẫu            | 0.1       | —          | Đang soạn thảo |
-| [Đồng ý sử dụng hình ảnh & dữ liệu](../07-phap-ly-va-tuan-thu/dong-y-dieu-tri/dong-y-su-dung-hinh-anh.md)                            | Biểu mẫu            | 0.1       | —          | Đang soạn thảo |
-| [Đồng ý chỉnh nha](../07-phap-ly-va-tuan-thu/dong-y-dieu-tri/dong-y-chinh-nha.md)                                                   | Biểu mẫu            | 0.1       | —          | Đang soạn thảo |
-| Đồng ý: gây tê/tiền mê _(khung)_                                                                                                     | Biểu mẫu            | 0.1       | —          | Đang soạn thảo |
+| [Phiếu khám Chỉnh nha (gồm tiền sử)](../07-phap-ly-va-tuan-thu/hop-dong/khach-hang/chinh-nha/phieu-kham-chinh-nha.md) | Biểu mẫu | 0.1 | — | Đang soạn thảo |
+| [Phiếu khám Răng sứ (gồm tiền sử)](../07-phap-ly-va-tuan-thu/hop-dong/khach-hang/rang-su/phieu-kham-rang-su.md) | Biểu mẫu | 0.1 | — | Đang soạn thảo |
+| [Phiếu khám Implant (gồm tiền sử)](../07-phap-ly-va-tuan-thu/hop-dong/khach-hang/implant/phieu-kham-implant.md) | Biểu mẫu | 0.1 | — | Đang soạn thảo |
+| [Phiếu đồng ý điều trị — Module](../07-phap-ly-va-tuan-thu/hop-dong/khach-hang/phieu-dong-y/README.md)                                                | Điều hướng          | 0.1       | —          | Đang soạn thảo |
+| [Khung chuẩn phiếu đồng ý](../07-phap-ly-va-tuan-thu/hop-dong/khach-hang/phieu-dong-y/_khung-chuan-phieu-dong-y.md)                                   | Quy ước             | 0.1       | —          | Đang soạn thảo |
+| [Đồng ý điều trị chung](../07-phap-ly-va-tuan-thu/hop-dong/khach-hang/phieu-dong-y/dong-y-dieu-tri-chung.md)                                          | Biểu mẫu            | 0.1       | —          | Đang soạn thảo |
+| [Đồng ý phẫu thuật Implant](../07-phap-ly-va-tuan-thu/hop-dong/khach-hang/phieu-dong-y/dong-y-phau-thuat-implant.md)                                  | Biểu mẫu            | 0.1       | —          | Đang soạn thảo |
+| [Đồng ý làm răng sứ & mài răng](../07-phap-ly-va-tuan-thu/hop-dong/khach-hang/phieu-dong-y/dong-y-lam-rang-su.md)                                     | Biểu mẫu            | 0.1       | —          | Đang soạn thảo |
+| [Đồng ý điều trị nội nha](../07-phap-ly-va-tuan-thu/hop-dong/khach-hang/phieu-dong-y/dong-y-noi-nha.md)                                               | Biểu mẫu            | 0.1       | —          | Đang soạn thảo |
+| [Đồng ý nhổ răng phẫu thuật](../07-phap-ly-va-tuan-thu/hop-dong/khach-hang/phieu-dong-y/dong-y-nho-rang-phau-thuat.md)                                | Biểu mẫu            | 0.1       | —          | Đang soạn thảo |
+| [Đồng ý sử dụng hình ảnh & dữ liệu](../07-phap-ly-va-tuan-thu/hop-dong/khach-hang/phieu-dong-y/dong-y-su-dung-hinh-anh.md)                            | Biểu mẫu            | 0.1       | —          | Đang soạn thảo |
+| [Đồng ý chỉnh nha](../07-phap-ly-va-tuan-thu/hop-dong/khach-hang/phieu-dong-y/dong-y-chinh-nha.md)                                                   | Biểu mẫu            | 0.1       | —          | Đang soạn thảo |
+| [Đồng ý gây tê / tiền mê](../07-phap-ly-va-tuan-thu/hop-dong/khach-hang/phieu-dong-y/dong-y-gay-te-tien-me.md)                                        | Biểu mẫu            | 0.1       | —          | Đang soạn thảo |
+| [Từ chối điều trị / khuyến nghị](../07-phap-ly-va-tuan-thu/hop-dong/khach-hang/phieu-dong-y/tu-choi-dieu-tri.md)                                      | Biểu mẫu            | 0.1       | —          | Đang soạn thảo |
+| Hướng dẫn chăm sóc trước–sau — **theo dịch vụ ×3** ([implant](../07-phap-ly-va-tuan-thu/hop-dong/khach-hang/implant/huong-dan-cham-soc-implant.md)·[răng sứ](../07-phap-ly-va-tuan-thu/hop-dong/khach-hang/rang-su/huong-dan-cham-soc-rang-su.md)·[chỉnh nha](../07-phap-ly-va-tuan-thu/hop-dong/khach-hang/chinh-nha/huong-dan-cham-soc-chinh-nha.md)) | Biểu mẫu | 0.1 | — | Đang soạn thảo |
 
 > **Placeholder có sẵn** (thư mục README): `cchn-va-phap-ly-chuyen-mon/`, `mat-bang-va-tai-san/`, `nha-cung-cap-va-doi-tac/`.
 

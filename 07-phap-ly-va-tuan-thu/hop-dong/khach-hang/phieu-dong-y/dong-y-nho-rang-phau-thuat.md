@@ -1,10 +1,14 @@
 <!--
+Tên văn bản  : Phiếu Đồng ý Nhổ răng Phẫu thuật
 Loại văn bản : Biểu mẫu (Phiếu đồng ý)
+Tên tiếng Anh: Surgical Extraction Consent
 Phiên bản    : 0.1 (BẢN ĐỀ XUẤT — chưa ban hành)
 Trạng thái   : Đang soạn thảo
 -->
 
 # PHIẾU ĐỒNG Ý NHỔ RĂNG PHẪU THUẬT / RĂNG KHÔN
+
+_English: Surgical Extraction Consent_
 
 > Ký trước khi thực hiện. Lưu 01 bản trong hồ sơ bệnh án. Soạn theo [khung chuẩn](./_khung-chuan-phieu-dong-y.md).
 

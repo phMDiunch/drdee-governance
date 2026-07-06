@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(sed -i '/^### C\\\\.3\\\\. Chi ph/,/^### C\\\\.4\\\\. /{/^### C\\\\.4\\\\. /!d;}' /c/Users/drpha/CODE/drdee-governance/07-phap-ly-va-tuan-thu/hop-dong/khach-hang/chinh-nha/hop-dong-chinh-nha.md)",
+      "Bash(echo \"---- kiểm tra vùng Phụ lục C sau khi xóa ----\")",
+      "Bash(grep -n '^### C\\\\.\\\\|^#### C\\\\.\\\\|^## PHỤ LỤC C\\\\|C\\\\.3\\\\.a\\\\|C\\\\.3\\\\.b\\\\|C\\\\.3\\\\.c' /c/Users/drpha/CODE/drdee-governance/07-phap-ly-va-tuan-thu/hop-dong/khach-hang/chinh-nha/hop-dong-chinh-nha.md)",
+      "Bash(echo \"==== TRƯỚC ====\")",
+      "Bash(sed -i '366,372 s/[[:space:]]*|[^|]*|[[:space:]]*$/ |/' /c/Users/drpha/CODE/drdee-governance/07-phap-ly-va-tuan-thu/hop-dong/khach-hang/implant/hop-dong-implant.md)",
+      "Bash(echo \"==== SAU ====\")"
+    ]
+  }
+}

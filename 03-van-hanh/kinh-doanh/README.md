@@ -47,4 +47,4 @@ Tài liệu quy trình, tiêu chuẩn và công cụ cho bộ phận Lễ tân v
 | Mô tả công việc — Tư vấn viên   | [01-to-chuc/mo-ta-cong-viec/tu-van-vien.md](../../01-to-chuc/mo-ta-cong-viec/tu-van-vien.md)                                                             |
 | Chính sách lương — Bộ phận Quầy | [02-nhan-su/chinh-sach-luong/luong-bo-phan-quay.md](../../02-nhan-su/chinh-sach-luong/luong-bo-phan-quay.md)                       |
 | KPI — Kinh doanh                | [02-nhan-su/kpi/kpi-kinh-doanh.md](../../02-nhan-su/kpi/kpi-kinh-doanh.md)                                                                               |
-| Hợp đồng điều trị               | [07-phap-ly-va-tuan-thu/hop-dong/khach-hang/hop-dong-dich-vu-dieu-tri.md](../../07-phap-ly-va-tuan-thu/hop-dong/khach-hang/hop-dong-dich-vu-dieu-tri.md) |
+| Hồ sơ khách hàng (HĐ · phiếu khám · đồng ý) | [07-phap-ly-va-tuan-thu/hop-dong/khach-hang/](../../07-phap-ly-va-tuan-thu/hop-dong/khach-hang/README.md) |

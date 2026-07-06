@@ -43,8 +43,10 @@ Trạng thái   : Đang soạn thảo
     ├── nguyen-tac-quan-ly-hop-dong.md
     ├── nhan-su/
     │   └── README.md
-    ├── khach-hang/
-    │   └── README.md
+    ├── khach-hang/          # BỘ HỒ SƠ KHÁCH HÀNG đầy đủ (ngoại lệ — không chỉ hợp đồng):
+    │   ├── implant/ rang-su/ chinh-nha/   (HĐ + phiếu khám + biên bản + hướng dẫn)
+    │   ├── phieu-dong-y/                  (phiếu đồng ý dùng chung)
+    │   └── README.md · danh-muc-ho-so-khach-hang.md · phan-cong-va-kiem-soat...
     ├── mat-bang-va-tai-san/
     │   └── README.md
     ├── nha-cung-cap-va-doi-tac/

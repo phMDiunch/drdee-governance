@@ -1,5 +1,7 @@
 <!--
+Tên văn bản  : Quy chế Phân công & Kiểm soát Hợp đồng Khách hàng
 Loại văn bản : Quy chế
+Tên tiếng Anh: Customer Contract Roles & Control Charter
 Phiên bản    : 0.1 (BẢN ĐỀ XUẤT — chưa ban hành)
 Hiệu lực     : —
 Review tiếp  : —
@@ -9,7 +11,9 @@ Trạng thái   : Đang soạn thảo
 
 # Quy chế Phân công & Kiểm soát Hợp đồng Khách hàng
 
-> Xác định **ai chịu trách nhiệm phần nào** khi (I) thực hiện hợp đồng với khách và (II) soạn thảo – kiểm duyệt – ban hành – rà soát mẫu hợp đồng. Áp dụng cho mọi hợp đồng dịch vụ khách hàng: [Implant](./hop-dong-dich-vu-implant.md), [Răng sứ](./hop-dong-rang-su-tham-my.md), [Chỉnh nha](./hop-dong-dich-vu-chinh-nha.md), [Điều trị chung](./hop-dong-dich-vu-dieu-tri.md).
+_English: Customer Contract Roles & Control Charter_
+
+> Xác định **ai chịu trách nhiệm phần nào** khi (I) thực hiện hợp đồng với khách và (II) soạn thảo – kiểm duyệt – ban hành – rà soát mẫu hợp đồng. Áp dụng cho mọi hợp đồng dịch vụ khách hàng: [Implant](./implant/hop-dong-implant.md), [Răng sứ](./rang-su/hop-dong-rang-su.md), [Chỉnh nha](./chinh-nha/hop-dong-chinh-nha.md).
 
 ---
 
